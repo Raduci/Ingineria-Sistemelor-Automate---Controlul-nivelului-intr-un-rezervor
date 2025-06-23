@@ -77,13 +77,6 @@ Proiectul conține fișiere Matlab/Simulink (.m și .slx), utilizate pentru:
 
 ---
 
-## Rulare și Verificare
-
-1. Deschide fișierele `.m` sau `.slx` în MATLAB/Simulink.
-2. Rulează simulările corespunzătoare fiecărui punct din proiect.
-3. Evaluează performanțele obținute și compară rezultatele între cele două tipuri de regulatori.
-
----
 
 ## Autor
 
